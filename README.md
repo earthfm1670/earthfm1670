@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://tenor.com/view/husky-pc-work-gif-27273590" alt="GIF" />
+  <img src="https://media.tenor.com/xxtZtsdeiNkAAAAi/husky-pc-work.gif" alt="GIF" />
 </p>
 
 ### 👨‍💻 About Me
