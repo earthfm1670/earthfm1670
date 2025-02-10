@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=earthfm1670&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </p>
 
-![Husky Working on PC](https://media.tenor.com/-XWf6BvBhhYAAAAC/husky-pc-work.gif)
+[![Husky Working](https://media.tenor.com/-XWf6BvBhhYAAAAC/husky-pc-work.gif)](https://tenor.com/view/husky-pc-work-gif-27273590)
 
 ### 👨‍💻 About Me
 - 🎓 **Background**: Bachelor of Business Administration
