@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Pumthad Kaewmongkolsri 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bunyawat-Sing&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=earthfm1670&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </p>
 
 ### 👨‍💻 About Me
