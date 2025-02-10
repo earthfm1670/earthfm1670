@@ -22,3 +22,9 @@
 🌐 **Portfolio**: [[portfolio-pumthad](https://pumthad-portfolio.vercel.app/)]
 
 ⭐ **Looking for a Full Stack Developer?** Feel free to reach out! 🚀
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/earthfm1670/earthfm1670/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/earthfm1670/earthfm1670/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/earthfm1670/earthfm1670/output/github-snake.svg" />
+</picture>
